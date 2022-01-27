@@ -129,13 +129,3 @@ share those images.
 - [All Contributors](https://github.com/gethugothemes/bookworm-light/graphs/contributors)
 
 
-## Hire Us
-We are available for **Hiring** for your next HUGO project. Please, check our
-[services](https://gethugothemes.com/services/?ref=github)
-
-<!-- premium themes -->
-## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![gosaas](https://demo.gethugothemes.com/thumbnails/gosaas.webp)](https://gethugothemes.com/products/gosaas/) | [![gojournal](https://demo.gethugothemes.com/thumbnails/gojournal.webp)](https://gethugothemes.com/products/gojournal/) |
-|:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Gosaas** | **Gojournal** |
-
